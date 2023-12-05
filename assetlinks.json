@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.usamamuzaffar.i_chat_instant",
+    "sha256_cert_fingerprints":
+    ["99:EF:6C:05:83:A0:73:E6:95:23:93:E9:50:77:8E:54:DB:37:D2:35:EC:16:C4:50:F0:67:33:DA:7D:FE:F0:FC"]
+  }
+}]
